@@ -2,7 +2,7 @@
 
 **Hack4Bengal 2.0 submission for team JGeeks**
 
-Team Members: Unmesh Jana, Uddipto Jana
+Team Members: Uddipto Jana, Unmesh Jana
 
 **Theme: Good Health and Well-being**
 
